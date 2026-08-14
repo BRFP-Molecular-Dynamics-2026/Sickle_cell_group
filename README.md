@@ -4,7 +4,7 @@ Welcome to our BRFP Molecular Dynamics group project repository.
 
 ## About This Project
 
-Sickle cell anemia is a genetic disease that affects 8 million people worldwide. This happens because there's a genetic mutation in hemoglobin that causes cells to collapse into a crescent shape and blocks regular blood vessels from getting to the rest of the body. In this simulation, I compared the regular "Wild" hemoglobin with the "Mutated" sickle cell type using molecular dynamics to simulate both types of hemoglobin in water and generated and compared results. I chose Molecular dynamics for this project because these mutations work at the atomic level, and it can be hard to simulate them in real life. 
+Sickle cell anemia is a genetic disease that affects 8 million people worldwide. This happens because there's a genetic mutation in hemoglobin that causes cells to collapse into a crescent shape and blocks regular blood vessels from getting to the rest of the body. In this simulation, I compared the regular "Wild" hemoglobin with the "Mutated" sickle cell type using molecular dynamics to simulate both types of hemoglobin in water and generated and compared results. I chose Molecular dynamics for this project because these mutations operate at the atomic level, and I'm not just testing their appearance; the way they both move and fold is important too.
 
 ## Team Members + Contributors
 - Ruwidah Abugana
