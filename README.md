@@ -1,10 +1,10 @@
 # The Fatal Hydrophobic Collapse: Sickle Cell Anemia
 
-Welcome to our BRFP Molecular Dynamics group project repository.
+Welcome to the BRFP Molecular Dynamics group project repository for Sickle Cell Anemia.
 
 ## About This Project
 
-Sickle cell anemia is a genetic disease that affects 8 million people worldwide. This happens because there's a genetic mutation in hemoglobin that causes cells to collapse into a crescent shape and blocks regular blood vessels from getting to the rest of the body. In this simulation, I compared the regular "Wild" hemoglobin with the "Mutated" sickle cell type using molecular dynamics to simulate both types of hemoglobin in water and generated and compared results. I chose Molecular dynamics for this project because these mutations operate at the atomic level, and I'm not just testing their appearance; the way they both move and fold is important too.
+Sickle cell anemia is a genetic disease that affects 8 million people worldwide. This happens because a genetic mutation in hemoglobin causes cells to collapse into a crescent shape, blocking regular blood vessels from delivering blood to the rest of the body. In this simulation, I compared the regular "Wild" hemoglobin with the "Mutated" sickle cell type using molecular dynamics to simulate both types of hemoglobin in water and generated and compared results. I chose Molecular dynamics for this project because these mutations operate at the atomic level, and I'm not just testing their appearance; the way they both move and fold is important too.
 
 ## Team Members + Contributors
 - Ruwidah Abugana
