@@ -17,9 +17,6 @@ Sickle cell anemia is a genetic disease that affects 8 million people worldwide.
 The objective of this experiment is to simulate the Wild and Mutant types and analyze the differences between them. 
 
 ## Repository Contents
-
-Briefly describe the important files and folders in this repository.
-
 | File or folder | Description |
 |---|---|
 | `notebooks/` | Google Colab simulation and analysis notebooks |
